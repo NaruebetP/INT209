@@ -1,0 +1,4 @@
+console.log("Hello World")
+console.log("Please give me A")
+console.log("Please reduce semester's cost")
+const getA = () => "A"
